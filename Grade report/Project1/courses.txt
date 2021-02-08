@@ -1,0 +1,11 @@
+Chemistry CHM 348 4
+ComputerSci CSC 201 4
+Mathematics MTH 345 4
+English ENG 101 3
+History HIS 101 3
+Biology BIO 234 4
+ComputerScie CSC 150 4
+Business BUS 128 3
+Business BUS 132 3
+Psychology PSY 100 4
+END

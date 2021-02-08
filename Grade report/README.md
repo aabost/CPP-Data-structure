@@ -1,0 +1,1 @@
+Using doubly linked lists we created a dynamic program that keeps track of all students, course lists, and grades.

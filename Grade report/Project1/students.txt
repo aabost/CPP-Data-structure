@@ -1,0 +1,96 @@
+Bruce Wayne 123456 Y 5
+Chemistry CHM 348 4 B
+ComputerScie CSC 201 4 B
+Math MTH 345 4 A
+English ENG 101 3 A
+History HIS 101 3 A
+
+Steven Rogers 789456 Y 3
+Chemistry CHM 348 4 A
+ComputerScie CSC 201 4 B
+History HIS 101 3 A
+
+Samantha Parrington 456987 Y 3
+ComputerScie CSC 201 4 A
+Math MTH 345 4 A
+Biology BIO 234 4 A
+
+Clark Kent 145632 N 3
+ComputerSci CSC 201 4 B
+History HIS 101 3 A
+Biology BIO 234 4 B
+
+Flash Gordon 987654 Y 3
+ComputerScie CSC 201 4 A
+English ENG 101 3 A
+Biology BIO 234 4 A
+
+Donna Troy 965874 Y 3
+ComputerScie CSC 150 4 A
+English ENG 101 3 B
+History HIS 101 3 B
+
+Reed Richards 159753 Y 3
+Chemistry CHM 348 4 B
+Math MTH 345 4 B
+English ENG 101 3 B
+
+Lex Luthor 345678 N 4
+ComputerScie CSC 201 4 A
+History HIS 101 3 A
+Biology BIO 234 4 A
+Psychology PSY 100 4 A
+
+Ralph Dibny 351759 Y 3
+ComputerSci CSC 150 4 B
+Biology BIO 234 4 B
+English ENG 101 3 C
+
+Benjamin Grimm 645915 Y 2
+Chemistry CHM 348 4 A
+ComputerScie CSC 150 4 B
+
+Geraldine Grimm 996633 Y 3
+Chemistry CHM 348 4 A
+ComputerSci CSC 201 4 B
+History HIS 101 3 A
+
+Barbara Gordon 765345 N 3 
+ComputerScie CSC 201 4 B
+Math MTH 345 4 C
+Biology BIO 234 4 D
+
+Walter Kovacs 913782 N 4
+Chemistry CHM 348 4 B
+ComputerScie CSC 150 4 A
+Math MTH 345 4 B
+English ENG 101 3 C
+
+Ororo Monroe 937146 Y 4
+ComputerScie CSC 150 4 B
+History HIS 101 3 C
+Biology BIO 234 4 B
+Business BUS 128 3 B
+
+Victor Creed 785623 Y 5
+ComputerScie CSC 150 4 A
+Chemistry CHM 348 4 B
+Math MTH 345 4 D
+English ENG 101 3 B
+Business BUS 128 3 C
+
+Alec Holland 324598 Y 3
+ComputerScie CSC 150 4 A
+Math MTH 345 4 B
+Biology BIO 234 4 A
+
+Peter Parker 654321 Y 4
+ComputerScie CSC 150 4 A
+Chemistry CHM 348 4 A
+English ENG 101 3 B
+Biology BIO 234 4 A
+
+Kathleen Gray 112233 N 1
+English ENG 101 3 D
+
+END

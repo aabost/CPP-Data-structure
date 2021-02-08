@@ -1,0 +1,1 @@
+Using C++ STL, we created a queue simulation for DMV. The program analyses the data and simulate the operation of robots responding to people waiting in line in the DMV. Also it makes recommendation about the number of robots needed at each location.
